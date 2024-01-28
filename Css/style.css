@@ -1,0 +1,53 @@
+.div1{
+    width: 1220px;
+    background-color: #FFFFFF;
+    margin: 0% auto;
+}
+.flex-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right-box{
+    display: flex;
+    align-items: center;
+}
+.consulting{
+    width: 184px;
+    height: 65px;
+    background-color: #6B77E5;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+.ul-li{
+    display: flex;
+    width: 601px;
+    justify-content: space-between;
+}
+.header-item{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+
+}
+.body{
+    padding-top: 65px;
+}
+.li{
+    font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+font-size: 18px;
+color: #37393F;
+
+}
